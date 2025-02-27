@@ -42,8 +42,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-ezzaim&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-ezzaim&layout=compact&theme=radical)
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedezzaim&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedezzaim&layout=compact&theme=radical)
 
 ---
 
