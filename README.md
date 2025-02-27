@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I'm Mohammed Ezzaim  
+🎓 Master IA & Ingénierie Informatique  
+💻 Développeur Full Stack (Spring Boot, Angular, Laravel, .NET)  
+📊 Passionné par l'Analyse de Données & la BI  
 
-<!--
-**mohammedezzaim/mohammedezzaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies & Outils
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contactez-moi** : [LinkedIn](https://www.linkedin.com/in/mohammed-ezzaim/) | [Portoflio](https://monportfolio.com)
