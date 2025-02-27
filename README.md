@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohammed Ezzaim  
 
-🎓 **Master en Intelligence Artificielle & Ingénierie Informatique**  
+🎓 **Master Student en Intelligence Artificielle & Ingénierie Informatique**  
 💻 **Développeur Full Stack & Analyste de Données**  
 📊 **Passionné par le développement web, l'analyse de données et la Business Intelligence**  
 
@@ -48,6 +48,7 @@
 ---
 
 ## 📫 Contactez-moi
-📧 **Email** : mohammed.ezzaim@example.com  
+📧 **Email** : mohammedezzaim00@gmail.com 
+📞 **Téléphone** : +212 6 58 91 33 74  
 🔗 **LinkedIn** : [Mohammed Ezzaim](https://www.linkedin.com/in/mohammed-ezzaim/)  
-🌐 **Portfolio** : [Mon Portfolio](https://monportfolio.com)  
+
