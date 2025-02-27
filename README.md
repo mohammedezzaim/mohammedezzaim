@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Mohammed Ezzaim  
 
-🎓 **Master Student en Intelligence Artificielle & Ingénierie Informatique**  
+🎓 **Master en Intelligence Artificielle & Ingénierie Informatique (en cours)**  
 💻 **Développeur Full Stack & Analyste de Données**  
-📊 **Passionné par le développement web, l'analyse de données et la Business Intelligence**  
+📊 **Passionné par le développement web, et l’intelligence artificielle**  
 
 Étudiant en première année Master en Intelligence Artificielle et Ingénierie Informatique (IA2I) à la FSTG de Marrakech, passionné par ledéveloppement logiciel et l’intelligence artificielle. En tant que développeur full-stack, avec des compétences en front-end et back-end, j’ai pour objectif de concevoir des solutions innovantes combinant technologies traditionnelles et IA pour relever des défis complexes.
 
