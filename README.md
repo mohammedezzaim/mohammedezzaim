@@ -1,54 +1,44 @@
-# 👋 Hello, I'm Mohammed Ezzaim  
+<div align="center">
+ <h1>Hi , I'm Mohammed Ezzaim  🙋‍♂️</h1>
+ </div>
 
-🎓 **Master en Intelligence Artificielle & Ingénierie Informatique (en cours)**  
-💻 **Développeur Full Stack & Analyste de Données**  
-📊 **Passionné par le développement web, et l’intelligence artificielle**  
+#### Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. With a strong background in software development, I enjoy tackling complex problems and building innovative solutions. I'm always eager to learn and collaborate on exciting projects. Let's connect and create something amazing together!
 
-Étudiant en première année Master en Intelligence Artificielle et Ingénierie Informatique (IA2I) à la FSTG de Marrakech, passionné par ledéveloppement logiciel et l’intelligence artificielle. En tant que développeur full-stack, avec des compétences en front-end et back-end, j’ai pour objectif de concevoir des solutions innovantes combinant technologies traditionnelles et IA pour relever des défis complexes.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" alt="Profile Image" width="100">
+  <h2>About me</h2>
+</div>
 
----
 
-## 🚀 Technologies & Outils
+-   🔭  I’m currently working on  **React, Next, NodeJS, Java/Sping Boot**
+-   🧑‍💻  I love using Software as a solution for every  `Problem`.
+-   🧑‍🎓  Master's student in Artificial Intelligence and Computer Engineering
+-   🤓  Always  `learning new things`.    
+-   📫  Feel free to reach me out  **[oissafe.imad@gmail.com](mailto:oissafe.imad@gmail.com)**
 
-### 🖥️ **Langages de Programmation**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<div align="center">
+ <h2>🛠️  My Stack</h2>
+ </div>
+ 
 
-### 🌐 **Frameworks & Bibliothèques**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,express,java,spring,mysql,mongo,next,react,redux,angular,docker,c,php,py,linux,bash,wordpress,postman,idea,vscode,git,github,firebase,figma)](#)
 
-### 🗄️ **Bases de Données**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<div style="width: 50%; margin: 0 auto;">
+  <a href="https://gitroll.io/profile/u06VRL3FGfJSyGMMoSNRc91GwuDg1" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/u06VRL3FGfJSyGMMoSNRc91GwuDg1" alt="GitRoll Profile Badge"/>
+  </a>
+</div>
 
-### 🔧 **Outils & Déploiement**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedezzaim&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedezzaim&layout=compact&theme=radical)
 
----
 
-## 📫 Contactez-moi
-📧 **Email** : mohammedezzaim00@gmail.com 
-📞 **Téléphone** : +212 6 58 91 33 74  
-🔗 **LinkedIn** : [Mohammed Ezzaim](https://www.linkedin.com/in/mohammed-ezzaim/)  
-
+<div align="center">
+ <h2>Contact me 🤝</h2>
+ </div>
+ 
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter" />
+  </a>
+</p>
