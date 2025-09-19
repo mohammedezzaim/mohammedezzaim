@@ -76,51 +76,87 @@ First-year Master's student in Artificial Intelligence and Computer Engineering 
 
 </div>
 
-## 🛠️ Technical Skills Showcase
+## 🛠️ Stack Technologique
 
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
 
-### 📋 Programming Languages
-<div align="center">
-
-[![Programming Languages](https://skillicons.dev/icons?i=java,py,js,ts,php,kotlin&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### 🎨 Frontend Development
-<div align="center">
-
-[![Frontend](https://skillicons.dev/icons?i=angular,react,nextjs,html,css,bootstrap,tailwind&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### ⚙️ Backend Development
-<div align="center">
-
-[![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,laravel&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### 🗄️ Databases
-<div align="center">
-
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### 🤖 AI & Machine Learning
-<div align="center">
-
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### 🚀 DevOps & Tools
-<div align="center">
-
-[![DevOps](https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio,postman&theme=dark)](https://skillicons.dev)
-
-</div>
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="25%" valign="top" style="padding: 15px; border: none;">
+      <h3 align="center">📋 Langages</h3>
+      <div align="center">
+        [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+        [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
+        [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+        [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
+        [![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
+        [![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://skillicons.dev)
+      </div>
+    </td>
+    <td width="25%" valign="top" style="padding: 15px; border: none;">
+      <h3 align="center">🎨 Frontend</h3>
+      <div align="center">
+        [![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://skillicons.dev)
+        [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+        [![NextJS](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
+        [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+        [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+        [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
+        [![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
+      </div>
+    </td>
+    <td width="25%" valign="top" style="padding: 15px; border: none;">
+      <h3 align="center">⚙️ Backend</h3>
+      <div align="center">
+        [![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
+        [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+        [![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://skillicons.dev)
+        [![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://skillicons.dev)
+      </div>
+    </td>
+    <td width="25%" valign="top" style="padding: 15px; border: none;">
+      <h3 align="center">🗄️ Bases de données</h3>
+      <div align="center">
+        [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+        [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+        [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
+        [![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://skillicons.dev)
+        [![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top" style="padding: 15px; border: none;">
+      <h3 align="center">🤖 IA & ML</h3>
+      <div align="center">
+        [![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+        [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
+        [![Scikit-Learn](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://skillicons.dev)
+      </div>
+    </td>
+    <td width="25%" valign="top" style="padding: 15px; border: none;">
+      <h3 align="center">🛠️ Outils</h3>
+      <div align="center">
+        [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+        [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+        [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
+      </div>
+    </td>
+    <td width="25%" valign="top" style="padding: 15px; border: none;">
+      <h3 align="center">💻 Environnements</h3>
+      <div align="center">
+        [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+        [![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)](https://skillicons.dev)
+      </div>
+    </td>
+    <td width="25%" valign="top" style="padding: 15px; border: none;">
+      <h3 align="center">🔧 API & Tests</h3>
+      <div align="center">
+        [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
