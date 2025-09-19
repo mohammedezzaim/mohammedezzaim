@@ -1,77 +1,73 @@
-# 👋 Hello, I'm Mohammed Ezzaim
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  
-🎓 **Master en Intelligence Artificielle & Ingénierie Informatique**  
-💻 **Développeur Full Stack & Analyste de Données**  
-🚀 **Passionné par le développement web et l'intelligence artificielle**
+# Mohammed Ezzaim
 
+**Fullstack Developer | AI Integration**
+
+🎓 **Master's Student in Artificial Intelligence & Computer Engineering**  
+💻 **AI Engineer | Full-Stack Developer**  
+🚀 **Passionate about innovative solutions combining AI and software development**  
+🌍 **Based in Marrakech, Morocco**  
+✨ **Transforming ideas into intelligent digital solutions**
+
+### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ezzaim/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedezzaim00@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohammedezzaim.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedezzaim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohammedezzaim.github.io)
 
-</div>
+**📞 Phone**: +212 6 58 91 33 74  
+**📍 Location**: Marrakech, Morocco
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 About Me
 
-<div align="center">
-  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+First-year Master's student in Artificial Intelligence and Computer Engineering (IA2I) at FSTG in Marrakech, passionate about software development and artificial intelligence. As a full-stack developer with front-end and back-end skills, my goal is to design innovative solutions combining traditional technologies and AI to address complex challenges.
 
-</div>
-
-Étudiant en première année Master en Intelligence Artificielle et Ingénierie Informatique (IA2I) à la FSTG de Marrakech, passionné par le développement logiciel et l'intelligence artificielle. En tant que développeur full-stack, avec des compétences en front-end et back-end, j'ai pour objectif de concevoir des solutions innovantes combinant technologies traditionnelles et IA pour relever des défis complexes.
-
-- 🔭 **Actuellement travaillant sur** : Projets académiques en IA et développement web full-stack
-- 🌱 **Actuellement j'apprends** : Deep Learning, Computer Vision et architectures cloud
-- 👯 **Je cherche à collaborer sur** : Projets innovants en IA et développement web
-- 🤔 **Je cherche de l'aide avec** : Optimisation des modèles de ML et architectures distribuées
-- 💬 **Parlons de** : IA, Développement Web, Technologies émergentes, Innovation
-- ⚡ **Fun fact** : Je peux coder en Java, Python et JavaScript presque simultanément!
+- 🔭 **Currently working on**: AI projects and full-stack web development
+- 🌱 **Currently learning**: Deep Learning, Computer Vision, and cloud architectures
+- 👯 **Looking to collaborate on**: Innovative AI and web development projects
+- 🤔 **Looking for help with**: ML model optimization and distributed architectures
+- 💬 **Ask me about**: AI, Web Development, Emerging Technologies, Innovation
+- ⚡ **Fun fact**: I can code in Java, Python, and JavaScript almost simultaneously!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills Showcase
 
-### 📋 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,php,kotlin,spring,nodejs,express,laravel,angular,react,nextjs,html,css,bootstrap,tailwind,mysql,postgres,mongodb,sqlite,firebase,tensorflow,pytorch,sklearn,docker,git,github,vscode,androidstudio,postman)](#)
 
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🤖 AI & Machine Learning
+- **Deep Learning**: TensorFlow, PyTorch, Neural Networks
+- **Machine Learning**: Scikit-learn, Data Science, Model Optimization
+- **Computer Vision**: Image Processing, Object Detection
+- **NLP**: Text Processing, Sentiment Analysis, LLM Integration
+- **AI Integration**: OpenAI APIs, HuggingFace Models
 
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### 💻 Full-Stack Development
+- **Frontend**: Angular, React, Next.js, TypeScript, Tailwind CSS, Bootstrap
+- **Backend**: Spring Boot, Node.js, Laravel, Express.js, RESTful APIs
+- **Mobile**: Android (Kotlin), Cross-platform development
+- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite, Firebase
 
 ### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- **Version Control**: Git, GitHub, GitLab
+- **Containerization**: Docker
+- **Development**: VS Code, Android Studio, IntelliJ IDEA
+- **API Testing**: Postman, Thunder Client
+- **Cloud Services**: Firebase, Cloudinary
 
 ---
 
@@ -87,11 +83,72 @@
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Certifications](https://img.shields.io/badge/Certifications-10%2B-brightgreen?style=for-the-badge)
+- **2024-2026** (Ongoing) - Master's in Artificial Intelligence and Computer Engineering (IA2I) - FSTG Marrakech
+- **2021-2023** - Bachelor's Degree in Distributed Computer Systems (SIR) - FSTG Marrakech
+- **2020-2021** - University Diploma in Science and Technology (DEUST) - FSTG Marrakech
+- **Scientific Baccalaureate** in Physical Sciences - Prince Heritier Moulay El Hassan High School, Marrakech
+
+---
+
+## 💼 Professional Experience
+
+### 🔬 AI Unit Leader - CSC FSTG Club
+- Leading AI research and development initiatives
+- Coordinating team projects in machine learning and data science
+- Organizing workshops and training sessions on AI technologies
+
+### 💻 Web Developer - ALLOBABA SARL (Internship: April-June 2024)
+- Developed an apartment and car booking platform with comprehensive features
+- Implemented user management, booking services, chat, notifications, and payment systems
+- Utilized Spring Framework, Angular, MySQL, Cloudinary, and Git/GitHub
+- Worked in Scrum methodology environment
+
+---
+
+## 🚀 Featured Projects
+
+### 🏙️ Urban Advertising Cost Calculator
+**Technologies**: Spring Boot, Angular, MySQL  
+Developed an application to calculate advertising costs in urban areas with dynamic pricing models.
+
+### 🌐 Laravel Custom Website Builder  
+**Technologies**: Laravel, Tailwind, MySQL, Cloudinary  
+Created a Laravel generator for dynamically configuring personalized websites based on user preferences.
+
+### 📱 EmoLearn - Emotion-Aware Educational App
+**Technologies**: Kotlin, Android Studio, Room/SQLite, Firebase, LLM (GPT), HuggingFace Models  
+Developed a mobile application that analyzes emotions from photos and generates adaptive educational content.
+
+### 🏨 Apartment & Car Reservation Platform (PFE)
+**Technologies**: Spring Framework, Angular, MySQL, Cloudinary, Git/GitHub, Scrum  
+Designed and implemented a comprehensive booking platform during my 2-month internship.
+
+---
+
+## 🏆 Skills & Competencies
+
+### Technical Skills
+- **Proficiency in Java and Spring framework**
+- Full-stack web development (Frontend & Backend)
+- Mobile application development (Android)
+- Machine Learning and AI integration
+- Database design and management
+- API development and integration
+
+### Soft Skills
+- **Leadership** (AI Unit Leader, CSC FSTG Club)
+- Project management
+- Teamwork and collaboration
+- Time management and organization
+- Effective communication
+- Problem-solving and analytical thinking
+
+### Languages
+- **Arabic**: Native proficiency
+- **French**: B2 level (Upper Intermediate)
+- **English**: B1 level (Intermediate)
 
 ---
 
@@ -119,8 +176,8 @@ No activity tracked
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedezzaim00@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohammedezzaim.github.io)
 
-**📞 Téléphone**: +212 6 58 91 33 74  
-**📧 Email**: mohammedezzaim00@gmail.com
+**📞 Phone**: +212 6 58 91 33 74  
+**📍 Location**: Marrakech, Morocco
 
 </div>
 
@@ -131,6 +188,6 @@ No activity tracked
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohammedezzaim&color=blue&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/mohammedezzaim.svg?style=social&label=Follow)](https://github.com/mohammedezzaim?tab=followers)
 
-**⚡ Fun Quote**: *"First, solve the problem. Then, write the code." - John Johnson*
+**⚡ Favorite Quote**: *"First, solve the problem. Then, write the code." - John Johnson*
 
 </div>
