@@ -1,9 +1,3 @@
-<div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=header&text=&fontSize=0)
-
-</div>
-
 <table width="100%" style="border: none;">
 <tr>
 <td width="50%" valign="top" style="padding: 20px;">
@@ -221,8 +215,3 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
 
 </div>
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer&text=&fontSize=0)
-
-</div>
