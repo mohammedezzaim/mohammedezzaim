@@ -17,15 +17,14 @@
 Last-year Master's student in Artificial Intelligence and Computer Engineering (IA2I) at FSTG in Marrakech, passionate about software development and artificial intelligence. As a full-stack developer, with front-end and back-end skills, my goal is to design innovative solutions combining traditional technologies and AI to address complex challenges.
 
 ## 🔑 Key Competencies
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 15px; margin: 15px 0;">
+<div class="key-competencies" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 15px; margin: 15px 0;">
   <a href="https://www.java.com" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
   <a href="https://spring.io" target="_blank" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
   <a href="https://www.mysql.com" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
   <a href="https://angular.io" target="_blank" title="Angular"><img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
   <a href="https://laravel.com" target="_blank" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" title="AI Agents"><img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="AI Agents" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-   
-   <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
+  <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
 </div>
 
 ### 📫 Connect with Me
@@ -33,7 +32,7 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   <a href="https://www.linkedin.com/in/mohammed-ezzaim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohammedezzaim00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/mohammedezzaim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://mohammedezzaim.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+  <a href="https://mohammedezzaim.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
 </div>
 
 **📞** +212 6 58 91 33 74  
@@ -102,13 +101,6 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   <a href="https://firebase.google.com" target="_blank" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
 </div>
 
-### 🤖 AI & Machine Learning
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
-  <a href="https://www.tensorflow.org" target="_blank" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-  <a href="https://pytorch.org" target="_blank" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-  <a href="https://scikit-learn.org" target="_blank" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
-</div>
-
 ### 🚀 DevOps & Tools
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
   <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"></a>
@@ -133,6 +125,11 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   }
   .key-competencies {
     flex-wrap: wrap !important;
+    gap: 10px;
+  }
+  .key-competencies img {
+    width: 40px;
+    height: 40px;
   }
 }
 @media (max-width: 480px) {
@@ -142,6 +139,11 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
   }
   .key-competencies {
     flex-wrap: wrap !important;
+    gap: 8px;
+  }
+  .key-competencies img {
+    width: 35px;
+    height: 35px;
   }
 }
 </style>
