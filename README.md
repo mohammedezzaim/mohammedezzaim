@@ -107,41 +107,6 @@ Last-year Master's student in Artificial Intelligence and Computer Engineering (
 
 </div>
 
-<style>
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .technical-skills div div {
-    gap: 10px;
-  }
-  .technical-skills img {
-    width: 40px;
-    height: 40px;
-  }
-  .key-competencies {
-    flex-wrap: wrap !important;
-    gap: 10px;
-  }
-  .key-competencies img {
-    width: 40px;
-    height: 40px;
-  }
-}
-@media (max-width: 480px) {
-  .technical-skills img {
-    width: 35px;
-    height: 35px;
-  }
-  .key-competencies {
-    flex-wrap: wrap !important;
-    gap: 8px;
-  }
-  .key-competencies img {
-    width: 35px;
-    height: 35px;
-  }
-}
-</style>
-
 <div align="center">
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header)
